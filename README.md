@@ -4,12 +4,9 @@
   <h1 style="margin: 0;">Hey there, I'm Pravin Raj!</h1>
 </div>
 
-
-
 <p align="center">
   <em>Designer • Developer • Creative Technologist</em>
 </p>
-
 
 ### 💫 About Me  
 
@@ -52,6 +49,20 @@ If you like what I do, maybe consider buying me a coffee ❤️
   <img src="https://github-readme-stats.vercel.app/api?username=PravinRaj01&show_icons=true&theme=gotham" alt="Pravin's GitHub Stats" />
   <br>
 </p>
+
+---
+
+### 🕒 WakaTime Stats  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### ✅ Todoist Stats  
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ---
 
