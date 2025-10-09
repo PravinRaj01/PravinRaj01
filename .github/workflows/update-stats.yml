@@ -1,0 +1,14 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: PravinRaj01/waka-readme@master # <- your fork here
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
