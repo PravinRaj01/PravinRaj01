@@ -1,28 +1,82 @@
-# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="40px" />  
+</p>
 
-My name is Javier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
+<h1 align="center">Hey there, I'm Pravin Raj 👋</h1>
 
-Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft 🇳🇱, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
+<p align="center">
+  <em>Designer • Developer • Creative Technologist</em>
+</p>
 
-💻 My interests lie within the field of AI & Machine Learning
+---
 
-🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin with multiple orchestras worldwide
+### 💫 About Me  
 
-🎞️ I am also interested in video games and cinematography
+🎨 Passionate about **digital design**, **AI tools**, and **creative technology**  
+💻 I love crafting visuals with **Figma** and **Canva**, and experimenting with **AI-powered design**  
+🌱 Currently exploring how **creativity and tech** merge in modern UI/UX  
+🤝 Always open to **collaboration**, mentoring, and volunteer design projects  
+🌍 Based in **Malaysia**
 
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
+---
 
-<a href="https://buymeacoffee.com/jpaefra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### ⚙️ Tech Stack  
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+🧠 **Design & Creativity** → Figma · Canva · Adobe Express  
+💻 **Development** → React · Node.js · HTML/CSS · JavaScript  
+🤖 **AI Tools** → ChatGPT · Midjourney · Notion AI  
 
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+---
 
-<br>
+### ✨ Fun Facts  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
-</picture>
+🎥 I enjoy storytelling through visuals & cinematic design  
+🎶 Music keeps me inspired — I often design with a playlist on  
+🚀 My motto: *“Create with purpose, design with emotion.”*
+
+---
+
+### ☕ Support My Work  
+If you like what I do, maybe consider buying me a coffee ❤️  
+
+<a href="https://buymeacoffee.com/YOUR-LINK" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+</a>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PravinRaj01&show_icons=true&theme=gotham" alt="Pravin's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravinRaj01&theme=gotham" alt="Pravin's Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Graph  
+![snake gif](https://github.com/PravinRaj01/PravinRaj01/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pravin-raj-muralitharan-675272223/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_itsme.pravinraj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/PravinRaj01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Design isn’t just what it looks like — it’s how it makes people feel.”</em>
+</p>
