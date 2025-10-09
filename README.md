@@ -1,8 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="wave.gif" width="40px" />
-  <h1 align="center">Hey there, I'm Pravin Raj</h1>
+  <img src="wave.gif" width="40px"> **Hey there, I'm Pravin Raj**
 </p>
+
 
 <p align="center">
   <em>Designer • Developer • Creative Technologist</em>
@@ -50,7 +50,6 @@ If you like what I do, maybe consider buying me a coffee ❤️
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PravinRaj01&show_icons=true&theme=gotham" alt="Pravin's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravinRaj01&theme=gotham" alt="Pravin's Streak" />
 </p>
 
 ---
