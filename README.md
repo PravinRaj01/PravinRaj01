@@ -1,9 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="wave.gif" width="40px" /> Hi there
+  <img src="wave.gif" width="40px" />
+  <h1 align="center">Hey there, I'm Pravin Raj</h1>
 </p>
-
-<h1 align="center">Hey there, I'm Pravin Raj</h1>
 
 <p align="center">
   <em>Designer • Developer • Creative Technologist</em>
