@@ -1,14 +1,15 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="wave.gif" width="40px"> **Hey there, I'm Pravin Raj**
+  <img src="wave.gif" width="40px" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="font-size: 30px; font-weight: bold;">Hey there, I'm Pravin Raj 👋</span>
 </p>
+
 
 
 <p align="center">
   <em>Designer • Developer • Creative Technologist</em>
 </p>
 
----
 
 ### 💫 About Me  
 
