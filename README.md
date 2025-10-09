@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="40px" />  
+  <img src="wave.gif" width="40px" /> Hi there
 </p>
 
-<h1 align="center">Hey there, I'm Pravin Raj 👋</h1>
+<h1 align="center">Hey there, I'm Pravin Raj</h1>
 
 <p align="center">
   <em>Designer • Developer • Creative Technologist</em>
@@ -56,8 +56,13 @@ If you like what I do, maybe consider buying me a coffee ❤️
 
 ---
 
-### 🐍 Contribution Graph  
-![snake gif](https://github.com/PravinRaj01/PravinRaj01/blob/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Contribution Snake  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+</picture>
 
 ---
 
