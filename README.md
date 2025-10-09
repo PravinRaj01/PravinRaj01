@@ -1,8 +1,8 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="wave.gif" width="40px" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="font-size: 30px; font-weight: bold;">Hey there, I'm Pravin Raj 👋</span>
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="wave.gif" width="40px" />
+  <h1 style="margin: 0;">Hey there, I'm Pravin Raj</h1>
+</div>
 
 
 
