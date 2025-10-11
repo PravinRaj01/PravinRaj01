@@ -1,4 +1,4 @@
-name: WakaTime Readme Update
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -8,23 +8,9 @@ on:
 
 jobs:
   update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
-
     steps:
-      - name: Update WakaTime Stats in README
-        uses: PravinRaj01/waka-readme@master
+      - uses: PravinRaj01/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          # Optional settings (recommended)
-          API_BASE_URL: "https://wakatime.com/api"
-          REPOSITORY: ${{ github.repository }}
-          TIME_RANGE: "last_30_days"
-          SHOW_TITLE: "true"
-          SHOW_TOTAL: "true"
-          SHOW_TIME: "true"
-          LANG_COUNT: "5"
-          SECTION_NAME: "waka"
-          CODE_LANG: "txt"
-          BLOCKS: "░▒▓█"
