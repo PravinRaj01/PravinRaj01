@@ -51,6 +51,13 @@ If you like what I do, maybe consider buying me a coffee ❤️
 </p>
 
 ---
+### 🧩 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinRaj01&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Top Languages" />
+</p>
+
+---
 
 ### 🕒 WakaTime Stats  
 
