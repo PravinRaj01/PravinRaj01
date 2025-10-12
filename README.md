@@ -62,6 +62,19 @@ If you like what I do, maybe consider buying me a coffee ❤️
 ### 🕒 WakaTime Stats  
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 04 October 2025 - To: 11 October 2025
+
+Total Time: 51 mins
+
+Markdown     14 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 %
+TypeScript   14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+YAML         13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+Python       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
@@ -69,6 +82,11 @@ If you like what I do, maybe consider buying me a coffee ❤️
 ### ✅ Todoist Stats  
 
 <!-- TODO-IST:START -->
+🏆  100 Karma Points           
+🌸  Completed 0 tasks today           
+🗓  Completed 0 tasks this week           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 ---
