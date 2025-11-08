@@ -37,7 +37,7 @@
 ### ☕ Support My Work  
 If you like what I do, maybe consider buying me a coffee ❤️  
 
-<a href="https://buymeacoffee.com/YOUR-LINK" target="_blank">
+<a href="https://buymeacoffee.com/bxkavqwrxe" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
 </a>
 
