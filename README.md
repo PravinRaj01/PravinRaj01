@@ -57,15 +57,15 @@ If you like what I do, maybe consider buying me a coffee ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Total Time: 1 hr 16 mins
+Total Time: 1 hr 9 mins
 
-TypeScript   32 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
-Bash         22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-JSON         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+TypeScript   28 mins         ██████████▒░░░░░░░░░░░░░░   40.93 %
+Bash         22 mins         ████████░░░░░░░░░░░░░░░░░   32.59 %
+JSON         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Python       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
