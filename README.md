@@ -57,15 +57,15 @@ If you like what I do, maybe consider buying me a coffee ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 37 mins
+Total Time: 30 mins
 
-Bash         22 mins         ███████████████▒░░░░░░░░░   60.92 %
-Git Config   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-HTML         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Python       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Bash         14 mins         ███████████▓░░░░░░░░░░░░░   47.28 %
+Git Config   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+Python       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
