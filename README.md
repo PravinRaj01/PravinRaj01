@@ -43,15 +43,6 @@ If you like what I do, maybe consider buying me a coffee ❤️
 
 ---
 
-### 📊 GitHub Stats  
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PravinRaj01&show_icons=true&theme=gotham&hide_border=true" alt="Pravin's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinRaj01&langs_count=6&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🕒 WakaTime Stats  
 
 <!--START_SECTION:waka-->
