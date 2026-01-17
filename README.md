@@ -48,15 +48,15 @@ If you like what I do, maybe consider buying me a coffee ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 11 hrs
+Total Time: 10 hrs 37 mins
 
-TypeScript   7 hrs 36 mins   █████████████████░░░░░░░░   68.19 %
-Python       1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-JSON         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript   7 hrs 20 mins   █████████████████░░░░░░░░   68.11 %
+Python       1 hr 57 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+JSON         1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
