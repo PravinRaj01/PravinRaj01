@@ -10,19 +10,22 @@
 
 ### 💫 About Me  
 
-🎨 Passionate about **digital design**, **AI tools**, and **creative technology**  
-💻 I love crafting visuals with **Figma** and **Canva**, and experimenting with **AI-powered design**  
-🌱 Currently exploring how **creativity and tech** merge in modern UI/UX  
-🤝 Always open to **collaboration**, mentoring, and volunteer design projects  
-🌍 Based in **Malaysia**
+* 🎓 **First Class Honours Graduate** in Computer Science (AI) from Universiti Malaya (CGPA 3.83).
+* 💻 Currently a **Software Engineer I** at **Dell Technologies**, specializing in enterprise-grade automation.
+* 🎨 **Creative Technologist** — I bridge the gap between complex backend logic and intuitive UI/UX design.
+* 🤖 Actively building **Agentic AI** applications using **LangChain**, **LangGraph**, and **RAG** architectures.
+* 🏆 Winner of the **Utusan Malaysia #Muhibah National Short Video Competition**.
 
 ---
 
 ### ⚙️ Tech Stack  
 
-🧠 **Design & Creativity** → Figma · Canva · Adobe Express  
-💻 **Development** → React · Node.js · HTML/CSS · JavaScript  
-🤖 **AI Tools** → ChatGPT · Midjourney · Notion AI  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Data** | Python • LangChain • LangGraph • Streamlit • R • Machine Learning |
+| **Design** | Figma (Advanced) • Adobe Creative Suite (Ps, Ai, Pr, Ae) • Framer • Design Systems |
+| **Development** | React.js • Node.js • Django • JavaScript (ES6+) • HTML5/CSS3 • REST APIs |
+| **DevOps** | Docker • Git/GitHub • CI/CD Pipelines |
 
 ---
 
