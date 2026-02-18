@@ -51,13 +51,12 @@ If you like what I do, maybe consider buying me a coffee ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Total Time: 12 mins
+Total Time: 3 mins
 
-TypeScript   8 mins          ██████████████████▓░░░░░░   74.04 %
-HTML         2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-XML          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+HTML   2 mins          ███████████████████▓░░░░░   78.36 %
+XML    0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
 ```
 
 <!--END_SECTION:waka-->
