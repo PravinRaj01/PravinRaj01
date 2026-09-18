@@ -11,7 +11,7 @@
 ### 💫 About Me  
 
 * 🎓 **First Class Honours Graduate** in Computer Science (AI) from Universiti Malaya (CGPA 3.83).
-* 💻 Currently a **Software Engineer I** at **Dell Technologies**, specializing in enterprise-grade automation.
+* 💻 Currently a **AI Engineer** at **CSI Interfusion**.
 * 🎨 **Creative Technologist** — I bridge the gap between complex backend logic and intuitive UI/UX design.
 * 🤖 Actively building **Agentic AI** applications using **LangChain**, **LangGraph**, and **RAG** architectures.
 * 🏆 Winner of the **Utusan Malaysia #Muhibah National Short Video Competition**.
