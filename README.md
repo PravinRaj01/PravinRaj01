@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Designer • Developer • Creative Technologist</em>
+  <em>AI Engineer • Creative Technologist • Developer</em>
 </p>
 
 ### 💫 About Me  
