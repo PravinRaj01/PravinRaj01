@@ -10,11 +10,11 @@
 
 ### 💫 About Me  
 
-* 🎓 **First Class Honours Graduate** in Computer Science (AI) from Universiti Malaya (CGPA 3.83).
-* 💻 Currently a **AI Engineer** at **CSI Interfusion**.
-* 🎨 **Creative Technologist** — I bridge the gap between complex backend logic and intuitive UI/UX design.
-* 🤖 Actively building **Agentic AI** applications using **LangChain**, **LangGraph**, and **RAG** architectures.
-* 🏆 Winner of the **Utusan Malaysia #Muhibah National Short Video Competition**.
+* **First Class Honours Graduate** in Computer Science (AI) from Universiti Malaya (CGPA 3.83).
+* Currently a **AI Engineer** at **CSI Interfusion**.
+* **Creative Technologist** — I bridge the gap between complex backend logic and intuitive UI/UX design.
+* Actively building **Agentic AI** applications using **LangChain**, **LangGraph**, and **RAG** architectures.
+* Winner of the **Utusan Malaysia #Muhibah National Short Video Competition**.
 
 ---
 
@@ -26,23 +26,6 @@
 | **Design** | Figma (Advanced) • Adobe Creative Suite (Ps, Ai, Pr, Ae) • Framer • Design Systems |
 | **Development** | React.js • Node.js • Django • JavaScript (ES6+) • HTML5/CSS3 • REST APIs |
 | **DevOps** | Docker • Git/GitHub • CI/CD Pipelines |
-
----
-
-### ✨ Fun Facts  
-
-🎥 I enjoy storytelling through visuals & cinematic design  
-🎶 Music keeps me inspired — I often design with a playlist on  
-🚀 My motto: *“Create with purpose, design with emotion.”*
-
----
-
-### ☕ Support My Work  
-If you like what I do, maybe consider buying me a coffee ❤️  
-
-<a href="https://buymeacoffee.com/bxkavqwrxe" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
-</a>
 
 ---
 
