@@ -83,6 +83,3 @@ No activity tracked
 
 ---
 
-<p align="center">
-  <em>“Design isn’t just what it looks like — it’s how it makes people feel.”</em>
-</p>
