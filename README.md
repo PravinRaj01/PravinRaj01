@@ -8,7 +8,7 @@
   <em>AI Engineer • Creative Technologist • Developer</em>
 </p>
 
-### 💫 About Me  
+### About Me  
 
 * **First Class Honours Graduate** in Computer Science (AI) from Universiti Malaya (CGPA 3.83).
 * Currently a **AI Engineer** at **CSI Interfusion**.
@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ Tech Stack  
+### Tech Stack  
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -29,7 +29,7 @@
 
 ---
 
-### 🕒 WakaTime Stats  
+### WakaTime Stats  
 
 <!--START_SECTION:waka-->
 
@@ -49,7 +49,7 @@ Other        52 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🌐 Connect with Me  
+### Connect with Me  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
